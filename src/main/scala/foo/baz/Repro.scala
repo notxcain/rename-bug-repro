@@ -1,7 +1,6 @@
-package foo.bar.sna
+package foo.baz
 
-import foo.bar.baz.RenameMe
-import io.foo.bar.baz.RenameMe
+import foo.bar.RenameMe
 
 class Repro {
   def op(r: RenameMe): Unit = r match {
