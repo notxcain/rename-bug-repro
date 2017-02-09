@@ -1,4 +1,4 @@
-package io.foo.bar.baz
+package foo.bar
 
 sealed abstract class RenameMe
 object RenameMe {

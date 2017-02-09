@@ -1,5 +1,6 @@
-package io.foo.bar.sna
+package foo.bar.sna
 
+import foo.bar.baz.RenameMe
 import io.foo.bar.baz.RenameMe
 
 class Repro {
